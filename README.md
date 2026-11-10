@@ -27,13 +27,6 @@ Atualmente, estou aprimorando minhas habilidades em programação e desenvolvime
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NicolasResendeSerra&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasResendeSerra&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ### 🐍 Contribution Graph
